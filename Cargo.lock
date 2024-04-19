@@ -285,8 +285,6 @@ dependencies = [
 [[package]]
 name = "ctap_hmac"
 version = "0.4.5"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e9c22d4c95aeeb4e2d41e823912d5460cfa1ebf672363eb97b32fa7c91cab89a"
 dependencies = [
  "byteorder",
  "cbor-codec",
